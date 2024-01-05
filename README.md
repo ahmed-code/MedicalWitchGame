@@ -1,9 +1,5 @@
 # Medical Witch
-![game1](https://github.com/ahmed-code/MedicalWitch/assets/87250282/3b5c1976-1f2f-409d-b0f6-ff564dec71eb)
-![game2](https://github.com/ahmed-code/MedicalWitch/assets/87250282/eef100c6-ab1a-4596-84b2-aad525e9447c)
-![game3](https://github.com/ahmed-code/MedicalWitch/assets/87250282/15d4a614-3508-441c-8d6b-4de1909b109a)
-![GDD](https://github.com/ahmed-code/MedicalWitch/assets/87250282/22a2aa2f-ebd9-4203-96d4-da39681510a4)
-![Plan](https://github.com/ahmed-code/MedicalWitch/assets/87250282/e465aa64-5e81-4ca1-96b8-ec08fe6bc713)
+
 
 > [!NOTE]
 > <pre> current project state:    on Progress <img  src="https://github.com/ahmed-code/MedicalWitch/assets/87250282/12b2c15a-a472-4238-82c1-71871eb43097" width="24"> </pre>
