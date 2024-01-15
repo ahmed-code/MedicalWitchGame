@@ -1,4 +1,4 @@
-# Medical Witch
+# Medical Witch Game
 
 
 > [!NOTE]
