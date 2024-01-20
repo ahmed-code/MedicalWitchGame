@@ -30,5 +30,5 @@ i write this [Work Plan](https://sharing.clickup.com/9010187447/l/h/8cgt35q-467/
 </a>
 
 ## Download URL
-Soon
+[here](https://drive.google.com/file/d/1z9tgp0_MC2vbHwEhiWM7VkJxOF0klLeL/view?usp=drive_link)
 
