@@ -1,8 +1,6 @@
 # Medical Witch Game
 
 
-> [!NOTE]
-> <pre> current project state:    on Progress <img  src="https://github.com/ahmed-code/MedicalWitch/assets/87250282/2a1faf97-1144-46bb-999c-3d0629b9cfdf" width="24"> </pre>
 
 
 ## Summary
